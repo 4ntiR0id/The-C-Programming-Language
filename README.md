@@ -1,7 +1,8 @@
 <h1 align="center">> The C Programming Language Documentation <</h1>
 
 ### About The C Programming Language :
-- **C** was created by Dennis M. Ritchie in 1972 at Bell Laboratories to develop the UNIX operating system. It combines **low-level memory control** with **high-level programming features**, making it ideal for systems programming and portable across hardware. C laid the foundation for many modern languages like **C++**, **Java**, and **C#**.
+- C is a programming language designed by Dennis Ritchie at Bell Labs. C is very widely used, straightforward, and can be compiled to a number of platforms and operating systems. C is an imperative language, with a small number of keywords and a large number of mathematical operators. C is also a very low level programming language, which means it can communicate directly with hardware.
+
 ---
 # 1. Introduction
 
