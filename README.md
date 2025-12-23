@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C.png" alt="Project Image" width="250"/>
+  <img src="C.png" alt="Project Image" width="150"/>
 </p>
 
 <h1 align="center">> The C Programming Language <</h1>
