@@ -2,6 +2,12 @@
   <img src="C.png" alt="Project Image" width="150"/>
 </p>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/BEGINNER-659ad2?logo=C">
+  <img src="https://img.shields.io/badge/INTERMEDIATE-00599c?logo=C">
+  <img src="https://img.shields.io/badge/ADVANCED-004482?logo=C">
+</div>
+
 <h1 align="center">> The C Programming Language <</h1>
 
 ### About "C" :
