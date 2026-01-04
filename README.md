@@ -8,12 +8,14 @@
   <img src="https://img.shields.io/badge/ADVANCED-004482?logo=C">
 </div>
 
-<h1 align="center">> The C Programming Language <</h1>
+<h1 align="center">> The C Programming Language Documentation <</h1>
 
-### About "C" :
+### About The C Programming Language :
 - **C** was created by Dennis M. Ritchie in 1972 at Bell Laboratories to develop the UNIX operating system. It combines **low-level memory control** with **high-level programming features**, making it ideal for systems programming and portable across hardware. C laid the foundation for many modern languages like **C++**, **Java**, and **C#**.
+
 ---
-# Chapter 1 : Introduction
+
+# Chapter : 1. Introduction
 
 ### 1.1 Getting Started :
 - The first C program
@@ -45,7 +47,7 @@
 - Function definitions
 - Return values
 
-### 1.8 Arguments – Call by Value :
+### 1.8 Arguments - Call by Value :
 - Value passing mechanism
 - Difference between values and pointers
 
@@ -58,7 +60,7 @@
 - Scope rules
 - Storage duration
 
-# Chapter 2 : Types, Operators, and Expressions
+# Chapter : 2. Types, Operators, and Expressions
 
 ### 2.1 Variable Names :
 - Naming rules and conventions
@@ -107,16 +109,16 @@
 - Operator precedence
 - Order of evaluation
 
-# Chapter 3 : Control Flow
+# Chapter : 3. Control Flow
 
 ### 3.1 Statements and Blocks :
 - Compound statements
 - Braces `{}`
 
-### 3.2 If–Else :
+### 3.2 If-Else :
 - Conditional execution
 
-### 3.3 Else–If :
+### 3.3 Else-If :
 - Multi-way decision chains
 
 ### 3.4 Switch :
@@ -124,11 +126,11 @@
 - `case` labels
 - `default` case
 
-### 3.5 Loops – While and For :
+### 3.5 Loops - While and For :
 - `while`
 - `for`
 
-### 3.6 Do–While :
+### 3.6 Do-While :
 - Differences from `while`
 
 ### 3.7 Break and Continue :
@@ -138,7 +140,7 @@
 - Unconditional branching
 - Restricted use cases
 
-# Chapter 4 : Functions and Program Structure
+# Chapter : 4. Functions and Program Structure
 
 ### 4.1 Basics of Functions :
 - Function definition
@@ -172,7 +174,7 @@
 ### 4.10 Recursion :
 - Recursive function calls
 
-# Chapter 5 : Pointers and Arrays
+# Chapter : 5. Pointers and Arrays
 
 ### 5.1 Pointers and Addresses :
 - Address concept
@@ -211,7 +213,7 @@
 - Function pointers
 - Callback mechanisms
 
-# Chapter 6 : Structures
+# Chapter : 6. Structures
 
 ### 6.1 Basics of Structures :
 - `struct` definition
@@ -241,19 +243,19 @@
 ### 6.9 Bit-fields :
 - Bit-level data representation
 
-# Chapter 7 : Input and Output
+# Chapter : 7. Input and Output
 
 ### 7.1 Standard Input and Output :
 - `stdin`
 - `stdout`
 
-### 7.2 Formatted Output – `printf` :
+### 7.2 Formatted Output - `printf` :
 - Format control
 
 ### 7.3 Variable-length Argument Lists :
 - Internal mechanics of `printf`
 
-### 7.4 Formatted Input – `scanf` :
+### 7.4 Formatted Input - `scanf` :
 - Data input
 
 ### 7.5 File Access :
@@ -270,13 +272,13 @@
 ### 7.8 Miscellaneous Functions :
 - Supporting I/O utilities
 
-# Chapter 8 : The UNIX System Interface
+# Chapter : 8. The UNIX System Interface
 
 ### 8.1 File Descriptors :
 - `open`
 - `close`
 
-### 8.2 Low-level I/O – Read and Write :
+### 8.2 Low-level I/O - Read and Write :
 - `read`
 - `write`
 
@@ -286,17 +288,17 @@
 ### 8.4 Random Access :
 - `lseek`
 
-### 8.5 Example – An Implementation of `fseek` :
+### 8.5 Example - An Implementation of `fseek` :
 - Low-level implementation example
 
 # Appendices
 
-### Appendix A – Reference Manual :
+### Appendix A - Reference Manual :
 - Lexical structure
 - Syntax
 - Semantics
 
-### Appendix B – Standard Library :
+### Appendix B - Standard Library :
 - Standard I/O library
 - String handling functions
 - Mathematical functions
