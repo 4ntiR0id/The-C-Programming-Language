@@ -10,6 +10,8 @@
 
 <h1 align="center">> The C Programming Language Documentation <</h1>
 
+<h5 align="center">C is God of Programming Languages</h5>
+
 ### About The C Programming Language :
 - **C** was created by Dennis M. Ritchie in 1972 at Bell Laboratories to develop the UNIX operating system. It combines **low-level memory control** with **high-level programming features**, making it ideal for systems programming and portable across hardware. C laid the foundation for many modern languages like **C++**, **Java**, and **C#**.
 
